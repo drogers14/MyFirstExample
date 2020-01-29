@@ -7,8 +7,7 @@ int main()
 {
   int x, y = 0;
     cout<<"Hi, please enter two numbers: ";
-    cin >> x;
-    cin >> y;
+    cin >> x >> y;
 
     return 0;
 }
